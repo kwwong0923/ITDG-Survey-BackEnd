@@ -1,0 +1,7 @@
+# import
+import numpy as np
+import pprint as pp
+
+arr = np.arange(5)
+pp.pprint(arr)
+pp.pprint(np.sin(arr)) # calucate 
